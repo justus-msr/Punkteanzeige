@@ -35,9 +35,6 @@ function drawScoreCounter(pointsA,pointsB)
 
 end
 
---pointsA= io.read()
---pointsB= io.read()
-
 pointsA=0
 pointsB=0
 
